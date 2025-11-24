@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+transformers>=4.0.0
+datasets
+torch
+tqdm
+joblib
